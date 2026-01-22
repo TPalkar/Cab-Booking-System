@@ -1,0 +1,3 @@
+Name: Esha | Pickup: BKC | Drop: Khar | Type: Standard | Cab: White Maruti Suzuki (Standard, Plate: MH12AB1234) | Fare: ₹60.00 | OTP: 262838 | Driver: Amit | Payment: Cash
+Name: bee | Pickup: Marine lines | Drop: Churchgate | Type: Deluxe | Cab: Grey WagonR (Deluxe, Plate: MH02CD5678) | Fare: ₹105.00 | OTP: 549758 | Driver: Sunita | Payment: UPI
+Name: Fiaa | Pickup: Bandstand | Drop: Dadar | Type: Deluxe | Cab: Grey WagonR (Deluxe, Plate: MH02CD5678) | Fare: ₹135.00 | OTP: 497907 | Driver: Sunita | Payment: Cash
